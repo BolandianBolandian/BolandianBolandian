@@ -8,4 +8,6 @@
 ![Sadegh Bolandian's GitHub stats](https://github-readme-stats.vercel.app/api?username=BolandianBolandian&show_icons=true&theme=tokyonight)
 
 
-![My Skills](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTnuEeAtIlhEmpNc-WYGW-SmF5Gpi4sVUOzAe7QtmZ3g&s)
+![Linux](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTnuEeAtIlhEmpNc-WYGW-SmF5Gpi4sVUOzAe7QtmZ3g&s)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTnuEeAtIlhEmpNc-WYGW-SmF5Gpi4sVUOzAe7QtmZ3g&s" alt="Linux" width="12">
