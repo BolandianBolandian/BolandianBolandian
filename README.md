@@ -8,6 +8,6 @@
 ![Sadegh Bolandian's GitHub stats](https://github-readme-stats.vercel.app/api?username=BolandianBolandian&show_icons=true&theme=tokyonight)
 
 
-![Linux](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTnuEeAtIlhEmpNc-WYGW-SmF5Gpi4sVUOzAe7QtmZ3g&s)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRdKovOa8lVKIjdmfwrvfp_VEnlCZu41jaDd6uvg00mw&s" alt="Linux" width="75"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Python_logo_51.svg/1200px-Python_logo_51.svg.png" alt="Linux" width="75"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0QjY9swUtdx_-TyE_2cv01rO7wRKP_jMa0Psz11Etbw&s" alt="Linux" width="75"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSewsxrd4BWLZ46ezR8moPaoaz5WPtEFPPK0-b1-dX81A&s" alt="Pandas" width="75"><img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="Pandas" width="75"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/320px-Scikit_learn_logo_small.svg.png" alt="Pandas" width="75"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIhu2bASSHMfNjKnUyoPStnuz5wIvKORUN4H5NU8Pyvw&s" alt="Pytorch" width="75"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvNo28P39BZ47wvMXk0nh-oIUDH2Htsco6vp1FxyrJZA&s" alt="Seaborn" width="75">
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTnuEeAtIlhEmpNc-WYGW-SmF5Gpi4sVUOzAe7QtmZ3g&s" alt="Linux" width="12">
+
