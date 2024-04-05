@@ -13,7 +13,7 @@
 
 **Connect with me:**
 
- &nbsp; [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnX_E3ser4X0ae09MUr87B8gHQRv0XtunCMNldRFM9zg&s" alt="Linkedin" width="30" height="30">](www.linkedin.com/in/mohammadsadeq-bolandian) &nbsp; [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8JWjBeZ-2xZZYf4OhZ6b6sEAiZKUBRpXiAxzgWplylA&s" alt="Telegram" width="30" height="30">](https://t.me/Sadeq1998)
+ &nbsp; [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnX_E3ser4X0ae09MUr87B8gHQRv0XtunCMNldRFM9zg&s" alt="Linkedin" width="30" height="30">](https://linkedin.com/in/mohammadsadeq-bolandian) &nbsp; [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8JWjBeZ-2xZZYf4OhZ6b6sEAiZKUBRpXiAxzgWplylA&s" alt="Telegram" width="30" height="30">](https://t.me/Sadeq1998)
 
 
 
