@@ -15,11 +15,11 @@
 ---
 **My latest Projects:**
 ###### Machine Learning Projects:
-[BDNP-Financial Market Prediction](https://github.com/BolandianBolandian/BDNP)<br>
-[Kaggle-Titanic Competition](https://github.com/BolandianBolandian/TITANIC-logistic-regression)<br>
-
+1. [BDNP-Financial Market Prediction](https://github.com/BolandianBolandian/BDNP)<br>
+2. [Kaggle-Titanic Competition](https://github.com/BolandianBolandian/TITANIC-logistic-regression)<br>
 ###### Python Projects:
-[Average Balance Calculator](https://github.com/BolandianBolandian/Average-Balance-Calculator)<br>
+1. [Average Balance Calculator](https://github.com/BolandianBolandian/Average-Balance-Calculator)<br>
+
 
 
 
