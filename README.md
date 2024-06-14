@@ -1,7 +1,7 @@
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=3000&color=00F726&background=000000&random=false&width=467&lines=Hi%2C+I+am+MohammadSadeq+Bolandian+%F0%9F%98%89)](https://git.io/typing-svg)
 
-📫 *Get to Know Me Better:* [My Resume](https://github.com/BolandianBolandian/MyResume)<br><br>
+📫 *Get to Know Me Better:* [My Resume](https://github.com/BolandianBolandian/MyResume/blob/main/MohammadSadeq-Bolandian-Resume.pdf)<br><br>
 ---
 ![Sadegh Bolandian's GitHub stats](https://github-readme-stats.vercel.app/api?username=BolandianBolandian&show_icons=true&theme=tokyonight)
 ---
