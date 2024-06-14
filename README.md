@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=3000&color=00F726&background=000000&random=false&width=467&lines=Hi%2C+I+am+MohammadSadeq+Bolandian+%F0%9F%98%89)](https://git.io/typing-svg)
 
 
-📫 To learn more about me, visit my English homepage at [Sadeqb.ir](https://Sadeqb.ir)
+📫 Get to Know Me Better: [My Resume](https://github.com/BolandianBolandian/MyResume)
 
 
 
