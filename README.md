@@ -21,6 +21,7 @@
 2. [Kaggle-Titanic Competition](https://github.com/BolandianBolandian/TITANIC-logistic-regression)<br>
 - ###### Python Projects:
 1. [Average Balance Calculator](https://github.com/BolandianBolandian/Average-Balance-Calculator)<br>
+2. [RentOptimizer](https://github.com/BolandianBolandian/RentOptimizer/tree/main)
 ---
 
 
