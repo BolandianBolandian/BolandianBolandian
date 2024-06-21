@@ -19,9 +19,11 @@
 - ###### Machine Learning Projects:
 1. [BDNP-Financial Market Prediction](https://github.com/BolandianBolandian/BDNP)<br>
 2. [Kaggle-Titanic Competition](https://github.com/BolandianBolandian/TITANIC-logistic-regression)<br>
+- ###### Data Science Projects:
+1. [Nutrition Survey Analysis](https://github.com/BolandianBolandian/NutritionSurveyAnalysis)<br>
 - ###### Python Projects:
 1. [Average Balance Calculator](https://github.com/BolandianBolandian/Average-Balance-Calculator)<br>
-2. [RentOptimizer](https://github.com/BolandianBolandian/RentOptimizer/tree/main)
+2. [Rent Optimizer](https://github.com/BolandianBolandian/RentOptimizer/tree/main)
 ---
 
 
