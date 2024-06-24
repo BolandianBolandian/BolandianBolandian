@@ -24,6 +24,8 @@
 - ###### Python Projects:
 1. [Average Balance Calculator](https://github.com/BolandianBolandian/Average-Balance-Calculator)<br>
 2. [Rent Optimizer](https://github.com/BolandianBolandian/RentOptimizer/tree/main)
+- ###### Others:
+1. [VPN for Linux](https://github.com/BolandianBolandian/VPN-for-Linux)<br>
 ---
 
 
